@@ -1,3 +1,1 @@
-# AniComic
-
-a website to stream animation movies and comic books as well, this application provides a user to access movies and the comics of the series they wish to watch by selecting the particular movie in the home page and they can able to select the movies in the home page or then can search the movie by their names.
+Anicomic is a frontend web application developed using HTML and CSS that provides a platform to stream anime videos and read corresponding comic content within a single website. The project focuses on delivering a simple and user-friendly interface where users can access both video and comic formats of anime in one place. The design emphasizes clean layout, easy navigation, and structured content presentation to enhance the viewing and reading experience. This project demonstrates fundamental web development skills, including responsive layout design, styling with CSS, and organizing multimedia content effectively using only frontend technologies.
